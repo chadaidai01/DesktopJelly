@@ -1,0 +1,11 @@
+/bin/
+/obj/
+/.vs/
+*.user
+*.suo
+*.wav
+*.mp3
+*.m4a
+*.exe
+*.zip
+DesktopJelly-diagnostics.csv
